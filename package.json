@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.portalrick",                              
+  "displayName": "Portal Rick",                        
+  "version": "0.0.1",                         
+  "unity": "2020.1",                             
+  "unityRelease": "",                             
+  "description": "Un petit portal vert pour un mec fatigué.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
